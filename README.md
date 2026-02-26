@@ -18,3 +18,5 @@ Profit Margin (%) → Profitability of sales
 Sales Growth (%) → Increase/decrease over time
 
 Average Sales per Order → Revenue per transaction
+
+- DashBoard Interactions <a herf="https://github.com/naveenb0407/adidas-sales-performance-analysis-powerbi/blob/main/ADIDAS%20SALES%20PROJECTe779072e-ed91-4073-9b83-5c2539a1b29f.pbix"> view Dashboard</a>
