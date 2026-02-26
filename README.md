@@ -4,4 +4,17 @@ Interactive Power BI dashboard analyzing Adidas sales data to uncover revenue tr
 
 
 -  <a href="https://in.docworkspace.com/d/sIO-v5PGDAZqugs0G?sa=601.1037"> Dataset</a>
-  
+
+  KPIs Used
+
+Total Sales → Overall revenue generated
+
+Total Profit → Net profit from sales
+
+Total Units Sold → Number of products sold
+
+Profit Margin (%) → Profitability of sales
+
+Sales Growth (%) → Increase/decrease over time
+
+Average Sales per Order → Revenue per transaction
